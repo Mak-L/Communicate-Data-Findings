@@ -19,6 +19,7 @@ It initialy contains 81 columns. To do this analysis, we took the thirteen colum
 - LoanOriginationDate
 - Recommendations
 - Investors
+
 Since Prosper has only been using its own Prosper Rating since 2009, we have a lot of missing values in the ProsperRating column. We removed its missing values and filled missing values in TotalProsperLoans column by **0**.
 
 
